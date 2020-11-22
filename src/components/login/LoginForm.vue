@@ -1,7 +1,7 @@
 <template>
   <div id="login-form">
     <div id="logo-container">
-      <img height="26" alt="7street" src="../../assets/logo-white.svg"/>
+      <img height="26" src="../../assets/logo-white.svg"/>
       <span class="brand-text">CMMI TOOL</span>
     </div>
     <div id="main-logo">

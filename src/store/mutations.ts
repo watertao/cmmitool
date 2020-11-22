@@ -3,7 +3,7 @@ import { RootState } from '@/store/types'
 
 export const mutations: MutationTree<RootState> = {
   saveSession (state) {
-    state.session.loginName = '7street'
+    state.session.loginName = ''
   },
 
   updateRouteComponent (state, component) {
