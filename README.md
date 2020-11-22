@@ -1,4 +1,4 @@
-# cmmitool
+# electron-vue-demo2
 
 ## Project setup
 ```
